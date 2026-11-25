@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SHF-107-01-L-D-SM")(type "KiCad")(uri "${KIPRJMOD}/SHF-107-01-L-D-SM")(options "")(descr ""))
+)

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-26112020-082759";"";
+"REFERENCE";"SHF-107-01-L-D-SM";"";
+"TAIL";"Surface mount";"";
+"TraceParts.PartTitle";"SHF - Shrouded Terminal Strip, 0.050"" pitch";"";
+"SERIES";"SHF";"";
+"PINNUM";"07";"";
+"SUPPLIER";"Samtec";"";
+"DESIGN";"Shrouded Terminal Strip, 0.050'' pitch, SHF-107-01-L-D SM";"";
+"TraceParts.InstanceId";"33-26112020-082759559RPRPC9078RNXTLBQXLUWHV";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.4";"";
